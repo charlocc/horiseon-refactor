@@ -12,3 +12,5 @@ I have been tasked with making this webpage for a marketing management company m
 * I established a more structured style for the organization and positioning of HTML elements.
 * I added a concise, descriptive title element.
 * I ensured the correct order for the heading attributes. 
+
+![alttext](assets/images/screenshot.png)
