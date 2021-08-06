@@ -137,6 +137,7 @@ p {
     max-width: 150px;
 }
 
+/* Aside */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -163,6 +164,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* Icon styles */
 
 .search-engine-optimization img {
     max-height: 200px;
