@@ -1,10 +1,10 @@
 # horeiseon-refactor
 
-# Charlotte Clark 
+By Charlotte Clark 
 
 Technologies Used: 
-    HTML
-    CSS
+* HTML
+* CSS
 
 I have been tasked with making this webpage for a marketing management company more accessible. 
 * I replaced the non-semantic HTML elements with semantic HTML elements. 
@@ -13,4 +13,4 @@ I have been tasked with making this webpage for a marketing management company m
 * I added a concise, descriptive title element.
 * I ensured the correct order for the heading attributes. 
 
-![alttext](assets/images/screenshot.png)
+![alttext](assets/images/screenshot.png "Screenshot Webpage")
